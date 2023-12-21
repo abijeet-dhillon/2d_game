@@ -14,5 +14,4 @@ This small and engaging 2D game featues a tiny world with obstacles, a playable 
 1. Clone the repository to your local machine.
 2. Compile the Java files.
 3. Run the main game class.
-4. Enjoy the adventure!
-Happy gaming! 🎮
+4. Enjoy the adventure! 🎮
