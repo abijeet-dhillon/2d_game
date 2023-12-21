@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 2D Mini Game
 
 This small and engaging 2D game featues a tiny world with obstacles, a playable character, doors that require keys to unlock, power-ups to boost your character's speed, a stopwatch to compare your completion time with friends, and a mysterious treasure chest to end off the game.
